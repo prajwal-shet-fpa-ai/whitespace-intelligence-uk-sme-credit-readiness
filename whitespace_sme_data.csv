@@ -1,0 +1,101 @@
+sme_id,sector,annual_revenue_gbp,credit_score,years_trading,cash_flow_score,debt_ratio,readiness_score,risk_band
+WS0001,Hospitality,356194,563,1,5,0.27,35,High Risk
+WS0002,Professional Services,692697,762,4,9,0.16,63,Medium Risk
+WS0003,Healthcare,353306,551,2,1,0.17,31,High Risk
+WS0004,Manufacturing,1105322,672,17,10,0.12,79,Low Risk
+WS0005,Manufacturing,644368,645,18,7,0.25,66,Medium Risk
+WS0006,Technology,421877,524,1,3,0.59,27,High Risk
+WS0007,Construction,665004,350,9,3,0.25,38,High Risk
+WS0008,Construction,299165,512,4,2,0.37,30,High Risk
+WS0009,Construction,431613,617,12,10,0.29,66,Medium Risk
+WS0010,Retail,305588,410,15,9,0.19,58,Medium Risk
+WS0011,Healthcare,547083,552,3,9,0.31,48,High Risk
+WS0012,Construction,632560,409,19,4,0.59,44,High Risk
+WS0013,Retail,351407,593,8,5,0.79,41,High Risk
+WS0014,Manufacturing,491026,625,4,7,0.29,48,High Risk
+WS0015,Construction,508281,544,6,6,0.35,46,High Risk
+WS0016,Technology,401549,802,3,10,0.54,56,Medium Risk
+WS0017,Manufacturing,746963,453,6,8,0.37,47,High Risk
+WS0018,Manufacturing,935072,433,11,1,0.26,44,High Risk
+WS0019,Retail,446316,344,11,7,0.29,46,High Risk
+WS0020,Manufacturing,451158,603,19,6,0.25,60,Medium Risk
+WS0021,Food & Beverage,342031,600,13,8,0.2,63,Medium Risk
+WS0022,Professional Services,559877,543,8,9,0.48,53,Medium Risk
+WS0023,Healthcare,211448,493,19,7,0.35,53,Medium Risk
+WS0024,Professional Services,499848,706,17,8,0.16,70,Medium Risk
+WS0025,Retail,463295,368,4,3,0.54,25,High Risk
+WS0026,Healthcare,416945,533,20,2,0.37,47,High Risk
+WS0027,Food & Beverage,223138,653,17,5,0.78,51,Medium Risk
+WS0028,Retail,549905,691,4,9,0.63,51,Medium Risk
+WS0029,Construction,463905,542,4,5,0.4,40,High Risk
+WS0030,Food & Beverage,307826,697,1,5,0.78,35,High Risk
+WS0031,Professional Services,496623,557,17,2,0.71,43,High Risk
+WS0032,Technology,327368,436,17,10,0.24,60,Medium Risk
+WS0033,Construction,771129,742,6,9,0.77,57,Medium Risk
+WS0034,Retail,410926,700,20,6,0.44,62,Medium Risk
+WS0035,Hospitality,343632,502,12,5,0.27,50,Medium Risk
+WS0036,Manufacturing,831314,764,19,2,0.16,65,Medium Risk
+WS0037,Food & Beverage,276990,767,3,9,0.64,50,Medium Risk
+WS0038,Professional Services,124164,678,16,9,0.22,67,Medium Risk
+WS0039,Healthcare,389923,544,7,9,0.63,47,High Risk
+WS0040,Manufacturing,770646,341,10,7,0.8,39,High Risk
+WS0041,Construction,579141,622,15,9,0.42,65,Medium Risk
+WS0042,Manufacturing,1082526,517,8,2,0.34,44,High Risk
+WS0043,Manufacturing,568088,519,19,4,0.11,55,Medium Risk
+WS0044,Retail,535340,619,8,2,0.73,39,High Risk
+WS0045,Construction,521464,641,3,9,0.27,52,Medium Risk
+WS0046,Food & Beverage,288154,696,7,9,0.19,60,Medium Risk
+WS0047,Food & Beverage,221027,540,8,8,0.67,44,High Risk
+WS0048,Manufacturing,661775,404,4,2,0.56,26,High Risk
+WS0049,Construction,675078,611,14,7,0.43,62,Medium Risk
+WS0050,Retail,420644,551,4,1,0.38,32,High Risk
+WS0051,Construction,356741,529,4,4,0.23,38,High Risk
+WS0052,Food & Beverage,251211,483,5,7,0.23,42,High Risk
+WS0053,Food & Beverage,266452,628,8,2,0.41,40,High Risk
+WS0054,Hospitality,485415,600,2,9,0.69,42,High Risk
+WS0055,Hospitality,333952,571,8,3,0.38,42,High Risk
+WS0056,Food & Beverage,118823,576,7,7,0.73,41,High Risk
+WS0057,Professional Services,590480,850,13,1,0.79,54,Medium Risk
+WS0058,Technology,461722,616,15,5,0.4,57,Medium Risk
+WS0059,Food & Beverage,277084,439,5,4,0.31,33,High Risk
+WS0060,Retail,563995,670,19,9,0.14,71,Medium Risk
+WS0061,Construction,767131,470,2,1,0.51,26,High Risk
+WS0062,Professional Services,824086,411,2,9,0.16,46,High Risk
+WS0063,Professional Services,682113,842,3,10,0.15,66,Medium Risk
+WS0064,Manufacturing,527129,512,13,2,0.76,40,High Risk
+WS0065,Manufacturing,772421,519,19,10,0.13,69,Medium Risk
+WS0066,Hospitality,165788,588,14,10,0.5,61,Medium Risk
+WS0067,Construction,422411,636,9,4,0.57,46,High Risk
+WS0068,Construction,448987,765,8,5,0.38,56,Medium Risk
+WS0069,Technology,374861,541,15,6,0.75,48,High Risk
+WS0070,Hospitality,385657,432,1,8,0.53,33,High Risk
+WS0071,Hospitality,331153,736,3,9,0.25,55,Medium Risk
+WS0072,Technology,253699,602,5,6,0.72,38,High Risk
+WS0073,Manufacturing,808473,673,12,5,0.21,63,Medium Risk
+WS0074,Technology,308168,421,20,9,0.11,59,Medium Risk
+WS0075,Technology,566725,615,4,3,0.29,41,High Risk
+WS0076,Hospitality,333295,621,18,3,0.29,53,Medium Risk
+WS0077,Manufacturing,596994,607,11,4,0.58,48,High Risk
+WS0078,Technology,533081,494,17,8,0.28,59,Medium Risk
+WS0079,Retail,655087,636,3,7,0.68,43,High Risk
+WS0080,Retail,269895,658,1,6,0.64,36,High Risk
+WS0081,Technology,346721,674,6,8,0.49,52,Medium Risk
+WS0082,Healthcare,512079,481,18,1,0.18,47,High Risk
+WS0083,Professional Services,747627,629,18,1,0.68,47,High Risk
+WS0084,Professional Services,723038,807,14,3,0.13,69,Medium Risk
+WS0085,Construction,574357,489,2,6,0.25,39,High Risk
+WS0086,Manufacturing,549859,482,4,6,0.65,36,High Risk
+WS0087,Healthcare,371210,620,20,3,0.75,46,High Risk
+WS0088,Manufacturing,812255,679,6,3,0.72,44,High Risk
+WS0089,Retail,421638,754,6,6,0.65,50,Medium Risk
+WS0090,Healthcare,349829,850,8,5,0.21,61,Medium Risk
+WS0091,Hospitality,368187,477,13,1,0.7,36,High Risk
+WS0092,Manufacturing,509049,637,7,8,0.34,55,Medium Risk
+WS0093,Manufacturing,699720,665,8,1,0.56,42,High Risk
+WS0094,Healthcare,433949,571,11,5,0.71,46,High Risk
+WS0095,Technology,365521,398,12,9,0.38,52,Medium Risk
+WS0096,Construction,536948,682,1,2,0.71,31,High Risk
+WS0097,Technology,521471,430,6,10,0.77,42,High Risk
+WS0098,Technology,515457,626,2,2,0.52,33,High Risk
+WS0099,Construction,455602,598,11,7,0.52,54,Medium Risk
+WS0100,Hospitality,315413,442,13,10,0.23,59,Medium Risk
