@@ -1,4 +1,5 @@
 # Whitespace Intelligence — UK SME Funding Readiness Analysis
+This repository is a portfolio analysis, not the Whitespace product.
 
 A data analytics project that shows the analytical approach behind **Whitespace Intelligence** (pre launch), a funding readiness platform for UK SMEs distributed through accountancy firms. All 100 SME records are simulated (generated in `project5.py`), not real company data.
 
