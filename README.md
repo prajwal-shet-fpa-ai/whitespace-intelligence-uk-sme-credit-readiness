@@ -1,6 +1,6 @@
 # Whitespace Intelligence — UK SME Funding Readiness Analysis
 
-End-to-end data analytics project replicating the analytical engine behind **Whitespace Intelligence**, an AI-powered Funding Readiness Intelligence Platform for UK SMEs distributed through accountancy firms (B2B2B model).
+A data analytics project that shows the analytical approach behind **Whitespace Intelligence** (pre launch), a funding readiness platform for UK SMEs distributed through accountancy firms. All 100 SME records are simulated (generated in `project5.py`), not real company data.
 
 Built using **Python, SQL, and Power BI** to analyse 100 UK SMEs across 8 sectors — identifying funding gaps, benchmarking sector performance, and producing CxO-ready conclusions.
 
