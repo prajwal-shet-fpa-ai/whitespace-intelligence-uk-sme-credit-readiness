@@ -63,10 +63,12 @@ Power BI dashboard with:
 
 ## Key Insights
 
-- 57% of UK SMEs analysed fall below the fundable readiness threshold
-- Professional Services performs strongest; Food & Beverage and Retail are at highest risk
-- Cash flow score is the single biggest differentiator between funded and unfunded SMEs
-- A material number of SMEs with strong credit scores are rejected due to poor cash flow presentation — exactly the gap Whitespace Intelligence is built to close
+Findings from the simulated dataset:
+
+- 55 of 100 SMEs score below 50, the level this model treats as fundable. Only 1 reaches Low Risk.
+- Professional Services has the highest average readiness (57.8). Food & Beverage (45.9) and Retail (46.2) are the lowest.
+- Years trading has the strongest link with the readiness score, followed by cash flow and debt ratio. Revenue matters least.
+- 3 of the 24 SMEs with strong credit scores (670 or above) still score below 50, which shows that a good credit score alone is not enough in this model.
 
 ---
 
